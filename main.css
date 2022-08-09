@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Bree+Serif');
 
+@font-face {
+    font-family: "SpriteGraffiti-Regular";
+    src: url("./fonts/SpriteGraffiti-Regular.woff") format('woff');
+}
+
 body {
-    font-family: 'Bree Serif';
+    font-family: 'SpriteGraffiti-Regular';
     margin: 0;
     text-align: center;
-    color: #fff;
+    color: rgba(255, 33, 155, 1);
     /* remove this later */
     background-color: #1d1e22;
 }
