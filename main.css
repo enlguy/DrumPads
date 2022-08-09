@@ -5,11 +5,18 @@
     src: url("./fonts/SpriteGraffiti-Regular.woff") format('woff');
 }
 
-body {
+h1 {
     font-family: 'SpriteGraffiti-Regular';
     margin: 0;
     text-align: center;
     color: rgba(255, 33, 155, 1);
+}
+
+body {
+    font-family: 'Sans-Serif';
+    margin: 0;
+    text-align: center;
+    color: rgba(33, 255, 70, 0.877);
     /* remove this later */
     background-color: #1d1e22;
 }
