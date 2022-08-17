@@ -7,3 +7,5 @@ Inspiration: https://www.youtube.com/watch?v=1cl_UEJrlyg
 Deployed site: https://luxury-froyo-771406.netlify.app/
 
 Sample of use: https://youtu.be/kAG6XeyNeGQ
+
+Chopped and produced by myself
